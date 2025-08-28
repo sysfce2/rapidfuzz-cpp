@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['levenshtein_26',['levenshtein',['../group__string__metric.html#ga540eec35fe2e2b0efc65195bf5ab6a79',1,'rapidfuzz::string_metric']]],
-  ['levenshtein_5feditops_27',['levenshtein_editops',['../group__string__metric.html#ga5e61de8649969745dc93b8dd47b6575b',1,'rapidfuzz::string_metric']]]
+  ['token_5fratio_0',['token_ratio',['../group__Fuzz.html#ga6c3d4f9ebf3a92334b97e0fb3a204cf7',1,'rapidfuzz::fuzz']]],
+  ['token_5fset_5fratio_1',['token_set_ratio',['../group__Fuzz.html#ga806f12bbb364f60488cb20fd6011bed1',1,'rapidfuzz::fuzz']]],
+  ['token_5fsort_5fratio_2',['token_sort_ratio',['../group__Fuzz.html#gad11b4e6223b7e258ac1df2549a476fdd',1,'rapidfuzz::fuzz']]]
 ];

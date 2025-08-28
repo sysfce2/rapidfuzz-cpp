@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hamming_3',['hamming',['../group__string__metric.html#gaaef6bbb6260afa72b541e79f6e74a9fc',1,'rapidfuzz::string_metric']]]
+  ['qratio_0',['QRatio',['../group__Fuzz.html#ga54d01a1f46d05d9eaa99708e66a1c502',1,'rapidfuzz::fuzz']]]
 ];
