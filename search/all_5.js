@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['token_5fratio_0',['token_ratio',['../group__Fuzz.html#ga6c3d4f9ebf3a92334b97e0fb3a204cf7',1,'rapidfuzz::fuzz']]],
-  ['token_5fset_5fratio_1',['token_set_ratio',['../group__Fuzz.html#ga806f12bbb364f60488cb20fd6011bed1',1,'rapidfuzz::fuzz']]],
-  ['token_5fsort_5fratio_2',['token_sort_ratio',['../group__Fuzz.html#gad11b4e6223b7e258ac1df2549a476fdd',1,'rapidfuzz::fuzz']]]
+  ['hamming_5fdistance_0',['hamming_distance',['../group__Distance.html#gad645c6459125b6419b484cde6e7a7e31',1,'rapidfuzz']]],
+  ['hamming_5fnormalized_5fsimilarity_1',['hamming_normalized_similarity',['../group__Distance.html#gacd0fd514246c8db03d55414b9d34876e',1,'rapidfuzz']]]
 ];
